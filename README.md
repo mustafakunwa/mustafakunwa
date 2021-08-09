@@ -6,7 +6,7 @@ I'm a Full Stack Developer.
 
 
 - 🔭 Mostly working on JavaScript,Angular, React and Node.js
-- 🌱 I'm currently in working on React
+- 🌱 I'm currently in working on React/Angular
 - 👯 Connect with me for any freelancing project
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mustafa-kunwa-63497212b/) or email me at m.kunwa52@gmail.com
 
